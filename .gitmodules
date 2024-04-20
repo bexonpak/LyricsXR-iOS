@@ -1,0 +1,3 @@
+[submodule "LyricsXCore"]
+	path = LyricsXCore
+	url = git@github.com:bexonpak/LyricsXCore.git
